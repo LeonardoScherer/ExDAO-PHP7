@@ -21,10 +21,11 @@ $usuario->login("joao","124");
 
 echo $usuario;*/
 
-$aluno = new Usuario("aluno","@luno");
+
 
 //Criando um novo usuario
-/*$aluno->setDeslogin("aluno");
+/*$aluno = new Usuario("aluno","@luno");
+$aluno->setDeslogin("aluno");
 $aluno->setDessenha("@luno");
 $aluno->insert();
 echo $aluno;*/
